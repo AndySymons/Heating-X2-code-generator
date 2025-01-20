@@ -1,4 +1,4 @@
-# Project HEATHER version 2
+# Project HEATHER Release 2
 
 This version udates version 1 and consolidates all the components of my Home Assistant heating control system: 
 - The three HA blueprints
